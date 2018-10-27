@@ -6,14 +6,11 @@ main:
   - title: "Experience"
     url: /experience/
   
-  - title: "Publications"
-    url: /publications/
-    
-  - title: "Talks"
-    url: /talks/
   
-  - title: "Awards & Honors"
-    url: /awards/
+  - title: "Co-curricular Activities"
+    url: /Co-curricular Activities/
+  
+  
 
  # - title: "Talks"
  #   url: /talks/    
@@ -24,8 +21,6 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
 
-  - title: "Blog Posts"
-    url: /year-archive/
  
   - title: "Contact"
     url: /contact/  
