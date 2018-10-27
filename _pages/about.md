@@ -13,19 +13,15 @@ redirect_from:
 </p>
 -->
 
-* I'm a first year MS by research student in Computer Science & Engineering department at [IIT Madras](https://www.iitm.ac.in/), fortunate to be advised by Prof. [Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/).
+* I am a Final year undergraduate student of Bachelors in Engineering at [Government Engineering College, Raipur](http://gecraipur.ac.in/) specialized, specializing in Electronics and Telecommunication.
 
-* I hold Bachelor’s Degree in Information and Communication Technology from [School of Engineering and Applied Science, Ahmedabad University, Ahmedabad, India](https://ahduni.edu.in/seas/).
+* I spent summers of 2018 doing a research & development internship at [Reliance Jio, CoE](http://www.ril.com/) offices. My major contribution was to develop face recognition model along Computer Vision Team of Reliance group. 
 
-* I was a research & development intern at [ezdi India](https://www.ezdi.com/) in the field of machine learning. I am also part of undergraduate research group of a college in the area of deep learning.
+* I have also been at Indian Institute of Management, Raipur for a Summer Internship in Marketing Research in year 2017.
 
+* My research interests lie in the general area of Machine Learning, particularly in Deep Learning and Computer Vision. 
 
+* In my leisure, I navigate through social media in order to meet more techie people and surf about new gizmoz around me.
 
-* My research interests lie in the general area of machine learning, particularly in deep learning and reinforcement learning, as well as applied the concepts to solve real world problems related to data science and machine learning. 
-
-# **Recent Updates**
-
-* **August 5, 2018** The paper "Correlated data generation using GAN and its Application for Skill recommendation" was accepted at [DSHCM (colocated with ECML PKDD'18)](https://dshcm.org/) 
-
-* **July 9, 2018** Joined MS by research program in Computer Science Department at [IIT Madras](http://www.cse.iitm.ac.in/), advised by Prof. [Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/). 
+* For me, Music is therapy for Relaxation.
 
