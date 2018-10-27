@@ -11,7 +11,7 @@ main:
     url: /Co-curricular Activities/
     
   - title: "Contact"
-    url: /Contact/ 
+    url: /contact/ 
   
   
 
@@ -25,9 +25,7 @@ main:
 #    url: /portfolio/
 
  
-  - title: "Contact"
-    url: /contact/  
-       
+  
    
 #  - title: "Guide"
 #    url: /markdown/
