@@ -13,7 +13,7 @@ redirect_from:
 </p>
 -->
 
-* I am a Final year undergraduate student of Bachelors in Engineering at [Government Engineering College, Raipur](http://gecraipur.ac.in/) specialized, specializing in Electronics and Telecommunication.
+* I am a Final year undergraduate student of Bachelors in Engineering at [Government Engineering College, Raipur](http://gecraipur.ac.in/) specializing in Electronics and Telecommunication.
 
 * I spent summers of 2018 doing a research & development internship at [Reliance Jio, CoE](http://www.ril.com/) offices. My major contribution was to develop face recognition model along Computer Vision Team of Reliance group. 
 
