@@ -17,7 +17,7 @@ redirect_from:
 
 * I spent summers of 2018 doing a research & development internship at [Reliance Jio, CoE](http://www.ril.com/) offices. My major contribution was to develop face recognition model along Computer Vision Team of Reliance group. 
 
-* I have also been at Indian Institute of Management, Raipur for a Summer Internship in Marketing Research in year 2017.
+* I have also been at [Indian Institute of Management, Raipur](http://www.iimraipur.ac.in/) for a Summer Internship in Marketing Research in year 2017.
 
 * My research interests lie in the general area of Machine Learning, particularly in Deep Learning and Computer Vision. 
 
