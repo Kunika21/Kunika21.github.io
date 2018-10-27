@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kunika Valecha"
 title_separator          : "-"
 name                     : &name "Kunika Valecha"
-description              : &description "An AI Probationer | Be Final Year Undergrad at Govt. Engg. College, Raipur | Former Computer Vision Intern at Reliance Jio, CoE | Former Research Intern at Indian Institute of Management, Raipur"
+description              : &description "An AI Probationer | BE Final Year Undergrad at Govt. Engg. College, Raipur | Former Computer Vision Intern at Reliance Jio, CoE | Former Research Intern at Indian Institute of Management, Raipur"
 url                      : https://Kunika21.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Kunika21/Kunika21.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Kunika Valecha"
   avatar           : "KunikaV.jpg"
-  bio              : "An AI Probationer | Be Final Year Undergrad at Govt. Engg. College, Raipur | Former Computer Vision Intern at Reliance Jio, CoE | Former Research Intern at Indian Institute of Management, Raipur"
+  bio              : "An AI Probationer | BE Final Year Undergrad at Govt. Engg. College, Raipur | Former Computer Vision Intern at Reliance Jio, CoE | Former Research Intern at Indian Institute of Management, Raipur"
   location         : "Raipur, Chhattisgarh, INDIA"
   employer         :
   email            : "reach.kunika@gmail.com"
