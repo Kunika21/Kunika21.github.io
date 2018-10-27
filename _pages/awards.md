@@ -1,13 +1,19 @@
 ---
 <!-- layout: archive -->
-title: "Awards & Honors"
-permalink: /awards/
+title: "Co-curricular Activities"
+permalink: /Co-curricular Activities/
 author_profile: true
 ---
-* **IEEE EXTREME** Secure 25th rank in all over India in 24 hour algorithmic programming competition held by IEEE. 2016
-* **University level Runners up in Programminng contest** Secure 2nd position in programming contest at Ahmedabad University and Informatics Institute of Technology, Sri Lanka. 2016
-* **Secure 4th position in CodeoverSeas** Secure 4th position in programming contest jointly held by Ahmedabad University, India and Informatics Institute of Technology, Shri Lanka. 2016
-* **Network Science Course** Successfully completed short term course Network science by Dr.Chintan Vaishnav,Senior Lecturer and Academic Director of MIT Tata Center for Technology and Design at MIT. 2015
-* **Project selection** Total four course projects are selected for annual exhibition by IEEE branch of Ahmedabad University. 2015,2016,2017
-* **Indian Oil Scholarship** Selected for Indian Oil Corporation Student Scholarship for Academic excellence. 2014
-* **Merit Scholarships GSEB India** Awarded the GSEB Merit Scholarship for professional Studies. 2014
+* **Campus Ambassador** at [Codefest 2017](https://www.linkedin.com/company/codefest/)
+  - Codefest is a coding competition held by Indian Institute of Technology, BHU.
+  - My work was to propagate the information regarding different contests among students of Government Engineering College, Raipur.
+ 
+* **Campus Ambassador** at [E-summit of NITRR 2017](https://ecell.nitrr.ac.in/)
+  - E-summit is huge Enterpreneurship summit called by students of National Institute of Technology, Raipur.
+  - I with my students of NITRR promoted the cause and benefits of attending the event among the student of GEC Raipur.
+  
+* **Head Coordinator** at [AVESH 2k17](http://www.avesh2k17.byethost7.com/?i=1)
+  - Avesh is an inter college Tech Fest of Government Engineering College, Raipur.
+  - I served as Head Coordinator in the flagship event of the fest viz. E-strategy.
+  - I was also part of promotion team.
+  - Throughout the event, I was an active member and tried to serve at my best.
