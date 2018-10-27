@@ -7,17 +7,17 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Kunika Valeha / Get My Insights"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Kunika Valecha"
+description              : &description "An AI Probationer | BE Final Year Undergrad Student at Government Engineering College, Raipiur | Former Computer Vision Intern at Reliance Jio | Former Research Intern at Indian Institute of Management, Raipur"
+url                      : https://Kunika21.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Kunika21/Kunika21.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
+read_more                : "enabled" # if enabled, adds "Read more" links to excerptstern 
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -57,8 +57,8 @@ yandex_site_verification :
 twitter:
   username               : &twitter
 facebook:
-  username               :
-  app_id                 :
+  username               : 
+  app_id                 : 
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
@@ -78,33 +78,34 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Kunika Valecha"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Raipur, Chhattisgarh
+                      India"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  uri              :
+  email            : "KunikaValecha@outlook.com"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "ValechaKunika"
   foursquare       :
-  github           : "academicpages"
+  github           : "Kunika21"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "kunikavalecha"
   lastfm           :
-  linkedin         :
+  linkedin         : "KunikaValecha"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "KunikaValecha"
   vine             :
   weibo            :
   xing             :
