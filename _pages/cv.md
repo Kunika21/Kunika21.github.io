@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](http://Kunika21.github.io/resume_latex.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](https://github.com/Kunika21/Kunika21.github.io/blob/master/resum_latex.pdf)
